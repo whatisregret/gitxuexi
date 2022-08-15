@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="tarnfer" type="AUTO_DETECTED" />
+      <mapping pattern="2022-08-03_17" type="AUTO_DETECTED" />
+      <mapping pattern="test_08-03_17" type="AUTO_DETECTED" />
+      <mapping pattern="db_config" type="Ini" />
+      <mapping pattern="locator" type="Ini" />
+      <mapping pattern="log2022-08-03_17" type="Log" />
+      <mapping pattern="test_2022-08-03_17" type="Native" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="bat" type="Shell Script" />
+      <mapping pattern="setting" type="YAML" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
