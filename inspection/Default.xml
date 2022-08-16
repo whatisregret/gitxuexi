@@ -42,6 +42,7 @@
         <option value="http://jakarta.apache.org/" />
         <option value="http://cxf.apache.org/schemas/" />
         <option value="http://ul-wallet.funstars.com.cn" />
+        <option value="http://192.168.1.198" />
       </list>
     </option>
   </inspection_tool>
